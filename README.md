@@ -19,6 +19,11 @@ Key Features
 ---------------------------------
 Link :https://www.kaggle.com/datasets/jaseemck/paralympics-2024
 
+Visual
+--------------------------------------
+![image](https://github.com/user-attachments/assets/feb0882c-cb66-4b63-a999-2301e928c945)
+
+
 
 
 
